@@ -90,3 +90,32 @@ E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolb
 E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CopyComplete
 E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
 E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csprojAssemblyReference.cache
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FIR.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.cache
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CoreCompileInputs.cache
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CopyComplete
+D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb
