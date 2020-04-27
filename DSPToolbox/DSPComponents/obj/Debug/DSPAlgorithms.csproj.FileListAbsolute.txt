@@ -9,3 +9,9 @@ D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSP
 D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
 D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
 D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojAssemblyReference.cache
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb

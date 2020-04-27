@@ -119,3 +119,32 @@ D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSP
 D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CoreCompileInputs.cache
 D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CopyComplete
 D:\FCIS\Year 4\Second Semester\Signal Processing\Pack\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\Media\Warning.png
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe.config
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.exe
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\DSPUI.pdb
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\DSPComponents.dll
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.dll
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.dll
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\DSPComponents.pdb
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.pdb
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.xml
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.pdb
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\bin\Debug\OxyPlot.WindowsForms.xml
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csprojAssemblyReference.cache
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.DiscreteFourierTransform.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FastFourierTransform.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FileInputSignal.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.FIR.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MovingAverage.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.MultiplySignalByConstant.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Normalizer.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.QuantizationAndEncoding.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.ComponentsAttriutesEditor.Shifter.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.DSPToolbox.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.Properties.Resources.resources
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.GenerateResource.cache
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CoreCompileInputs.cache
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.csproj.CopyComplete
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.exe
+E:\4thY\_secTerm\Signal\lab 1\fcisdsp-dsp.toolbox-78ddd969882b\fcisdsp-dsp.toolbox-78ddd969882b\dsp-toolbox\DSPToolbox\DSPUI\obj\Debug\DSPUI.pdb

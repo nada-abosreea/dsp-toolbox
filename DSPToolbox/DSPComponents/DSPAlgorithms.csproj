@@ -42,6 +42,7 @@
     <Compile Include="Algorithms\Accumulator.cs" />
     <Compile Include="Algorithms\Algorithm.cs" />
     <Compile Include="Algorithms\Adder.cs" />
+    <Compile Include="Algorithms\Complex.cs" />
     <Compile Include="Algorithms\DirectConvolution.cs">
       <SubType>Code</SubType>
     </Compile>

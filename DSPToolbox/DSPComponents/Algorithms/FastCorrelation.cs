@@ -7,6 +7,40 @@ using DSPAlgorithms.DataStructures;
 
 namespace DSPAlgorithms.Algorithms
 {
+
+    public class Complex
+    {
+        public double real;
+        public double imag;
+
+        public Complex() { }
+
+        public Complex(double r, double i)
+        {
+            real = r;
+            imag = i;
+        }
+
+
+        public static Complex operator -(Complex a, Complex b)
+        {
+            Complex data = new Complex((a.real - b.real), (a.imag - b.imag));
+            return data;
+        }
+
+        public static Complex operator +(Complex a, Complex b)
+        {
+            Complex data = new Complex((a.real + b.real), (a.imag + b.imag));
+            return data;
+        }
+
+        public static Complex operator *(Complex a, Complex b)
+        {
+            Complex data = new Complex((a.real * b.real) - (a.imag * b.imag), (a.real * b.imag) + (a.imag * b.real));
+            return data;
+        }
+    }
+
     public class FastCorrelation : Algorithm
     {
         public Signal InputSignal1 { get; set; }
@@ -154,9 +188,18 @@ namespace DSPAlgorithms.Algorithms
             return NormSignal;
         }
         public override void Run()
-        { 
-           
-            // we may need to add zeros enough to make both lengthes n1+n2+1
+        {
+
+            /*// we may need to add zeros enough to make both lengthes n1+n2+1
+            if (InputSignal1.Samples.Count != InputSignal2.Samples.Count && InputSignal2 != null)
+            {
+                for (int i = 0; i < InputSignal1.Samples.Count + InputSignal2.Samples.Count - 1; i++)
+                {
+                    if (i >= InputSignal1.Samples.Count) InputSignal1.Samples.Add(0);
+                    if (i >= InputSignal2.Samples.Count) InputSignal2.Samples.Add(0);
+
+                }
+            }*/
 
             //Cross Correlation
             if (InputSignal2 != null)

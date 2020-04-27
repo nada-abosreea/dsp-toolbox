@@ -7,38 +7,7 @@ using DSPAlgorithms.DataStructures;
 
 namespace DSPAlgorithms.Algorithms
 {
-    public class Complex
-    {
-        public double real;
-        public double imag;
 
-        public Complex() { }
-
-        public Complex(double r, double i)
-        {
-            real = r;
-            imag = i;
-        }
-
-
-        public static Complex operator -(Complex a, Complex b)
-        {
-            Complex data = new Complex((a.real - b.real), (a.imag - b.imag));
-            return data;
-        }
-
-        public static Complex operator +(Complex a, Complex b)
-        {
-            Complex data = new Complex((a.real + b.real), (a.imag + b.imag));
-            return data;
-        }
-
-        public static Complex operator *(Complex a, Complex b)
-        {
-            Complex data = new Complex((a.real * b.real) - (a.imag * b.imag), (a.real * b.imag) + (a.imag * b.real));
-            return data;
-        }
-    }
 
     public class FastFourierTransform : Algorithm
     {
@@ -48,30 +17,25 @@ namespace DSPAlgorithms.Algorithms
 
         public Complex[] FFTOutput = new Complex[0];
 
-        public Complex[] FFT(List<float> samples)
+        public void FFT(ref List<Complex> samples, int N)
         {
-            int N = samples.Count;
+            
 
-            Complex[] ret = new Complex[N];
+            
 
-            if (N == 2)
+            if (N==1)
             {
-                
-                ret[0] = new Complex(samples[0] + samples[1], 0); //even
-                ret[1] = new Complex(samples[0] - samples[1], 0); //odd
-
-                return ret;
+                return;
             }
 
 
-
-            List<float> even = new List<float>();
-            List<float> odd = new List<float>();
+            List<Complex> even = new List<Complex>();
+            List<Complex> odd = new List<Complex>();
             for (int i=0; i<N; i+=2) { even.Add(samples[i]); }
             for (int i = 1; i < N; i += 2) { odd.Add(samples[i]); }
 
-            Complex[] fft1 = FFT(even);
-            Complex[] fft2 = FFT(odd);
+            FFT(ref even, N/2);
+            FFT(ref odd, N/2);
 
             
 
@@ -82,15 +46,15 @@ namespace DSPAlgorithms.Algorithms
                 double imag = Math.Sin(angle);
                 Complex a = new Complex(real, imag);
 
-                Complex t = a * fft2[k];
-                ret[k] = fft1[k] + t;
-                ret[k + N / 2] = fft1[k] - t;
+                Complex t = a * odd[k];
+                samples[k] = even[k] + t;
+                samples[k + N / 2] = even[k] - t;
 
 
 
             }
 
-            return ret;
+            return;
 
             
 
@@ -106,7 +70,13 @@ namespace DSPAlgorithms.Algorithms
             OutputFreqDomainSignal.FrequenciesPhaseShifts = new List<float>();
             OutputFreqDomainSignal.Frequencies = new List<float>();
 
-            FFTOutput = FFT(InputTimeDomainSignal.Samples);
+            List<Complex> samples = new List<Complex>();
+            for (int i = 0; i < InputTimeDomainSignal.Samples.Count; i++)
+                samples.Add(new Complex(InputTimeDomainSignal.Samples[i], 0));
+
+            FFT(ref samples, samples.Count);
+
+            FFTOutput = samples.ToArray();
 
             float A;
             float theta;
